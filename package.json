@@ -45,7 +45,7 @@
     "@material/typography": "^4.0.0",
     "ext-components": "dessant/ext-components#^0.4.0",
     "ext-contribute": "dessant/ext-contribute#^0.3.3",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.20",
     "storage-versions": "dessant/storage-versions#^0.2.6",
     "typeface-roboto": "^0.0.75",
     "vue": "^2.6.11",
